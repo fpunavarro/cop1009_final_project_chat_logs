@@ -1,0 +1,10 @@
+Table 4: large pepperoni with extra cheese
+Takeout 12: medium hawaiian, add pineapple
+Table 7: small margherita, no changes
+Delivery 3: XL meat lovers, extra cheese and bacon
+Table 9: medium veggie, anchovies on half
+Takeout 18: small cheese, plain
+Delivery 5: large pepperoni with pineapple and jalapenos
+Table 2: medium buffalo chicken, extra cheese
+Takeout 21: large hawaiian with anchovies
+Delivery 8: small cheese, no changes
